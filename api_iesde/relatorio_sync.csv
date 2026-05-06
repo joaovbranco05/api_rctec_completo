@@ -1,0 +1,107 @@
+﻿linha,status,motivo,aluno,turma,materia,avaliacao,nota,matricula_id,disciplina_iesde
+0,WARN,"falha ao buscar notas MatriculaID=1526199: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,WARN,"falha ao buscar notas MatriculaID=1526201: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,WARN,"falha ao buscar notas MatriculaID=1624581: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,WARN,"falha ao buscar notas MatriculaID=1786405: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,WARN,"falha ao buscar notas MatriculaID=1809198: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,WARN,"falha ao buscar notas MatriculaID=1842823: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,WARN,"falha ao buscar notas MatriculaID=1959484: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+0,OK,,MIRIAN MARIA GOULART,nan,ESTÁGIO OBRIGATÓRIO I,ACF,10.0,1986440,ESTÁGIO OBRIGATÓRIO I
+1,WARN,"falha ao buscar notas MatriculaID=1526199: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,WARN,"falha ao buscar notas MatriculaID=1526201: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,WARN,"falha ao buscar notas MatriculaID=1624581: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,WARN,"falha ao buscar notas MatriculaID=1786405: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,WARN,"falha ao buscar notas MatriculaID=1809198: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,WARN,"falha ao buscar notas MatriculaID=1842823: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,WARN,"falha ao buscar notas MatriculaID=1959484: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+1,OK,,MIRIAN MARIA GOULART,nan,MÉTODOS E TÉCNICAS DE PESQUISA,PO,8.0,1986440,MÉTODOS E TÉCNICAS DE PESQUISA
+2,WARN,"falha ao buscar notas MatriculaID=1526199: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1526201: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1624581: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1786405: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1809198: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1842823: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1959484: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=1987795: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=2147904: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,WARN,"falha ao buscar notas MatriculaID=2178226: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+2,NAO_ENCONTRADO,materia+avaliacao sem nota ou nao casou,MIRIAN MARIA GOULART,nan,ESTÁGIO OBRIGATÓRIO I,PO,,,
+3,WARN,"falha ao buscar notas MatriculaID=1526199: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1526201: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1624581: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1786405: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1809198: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1842823: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1959484: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=1987795: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=2147904: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,WARN,"falha ao buscar notas MatriculaID=2178226: Erro HTTP 400: <?xml version=""1.0"" encoding=""utf-8""?>
+<xml><status>0</status><mensagem>Nenhum registro encontrado</mensagem></xml>
+",,,,,,,
+3,NAO_ENCONTRADO,materia+avaliacao sem nota ou nao casou,MIRIAN MARIA GOULART,nan,MÉTODOS E TÉCNICAS DE PESQUISA,ACF,,,

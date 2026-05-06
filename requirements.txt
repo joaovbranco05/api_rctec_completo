@@ -1,0 +1,7 @@
+reflex==0.8.26
+requests
+dotenv
+openpyxl
+xmltodict
+unidecode
+rapidfuzz
